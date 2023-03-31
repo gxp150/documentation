@@ -97,6 +97,8 @@ Objectives for Semester 1 2023
 4\. Implement Improvements
 
 5\. What is Outstanding - Handover Tasks in GitHub/Trello
+    Possibly good to implement this in future requires further research converting lighthouse report into workflow actions
+    https://blog.logrocket.com/lighthouse-meets-github-actions-use-lighthouse-ci/
 
 This will achieve the following deliverables:
 
@@ -105,3 +107,11 @@ Cleaner platform, minimising errors (technical and cosmetic), improving overall 
 **DDGIT Website**
 
 Our first task, we will need to locate or document website site map, create an excel file that we can use to document our findings for each page. We will need comparisons for how it is is displaying in different web browsers and devices. We can collaborate on this excel file in Teams but less work if we can add it to GitHub and then our contributions will be tracked as was mentioned in class today.
+
+**Project Status - 30 March 2023**
+
+We have created our first round of Lighthouse Reports and need to submit to GitHub
+We have noted some enhancements for the front-end and improvements for the back-end using our reports and industry knowledge. 
+We have touched base with our client to confirm our direction and progress. 
+Our team is moving forward with work on Analysing the report and identifing how these can be implemented in Thoth - Art Gallery. These improvements are primarily surrounding naming conventions, optimisation, image scaling, creation of a site-map.
+
