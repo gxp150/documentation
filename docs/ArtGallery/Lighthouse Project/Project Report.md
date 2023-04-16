@@ -181,7 +181,7 @@ Objectives for Semester 1 2023
 
 1\. Analyse website with Google lighthouse to identify areas of improvement - Complete Proceed to Step 3
 
-2\. Identify other front end testing tools that could be used in addition to Lighthouse
+2\. Identify SEO Techniques and/or other front end testing tools that could be used in addition to Lighthouse
 
 2\. Compile Report outlining findings and action points derived from this
 
@@ -209,3 +209,5 @@ Our first task, we will need to locate or document website site map, create an e
 6\. Document Meta details (Document does not have a meta description)
 7\. CSS Action Items (meta theme, start_url, splash screen)
 8\. Apple-Touch-Icon
+
+**SEO Considerations**
