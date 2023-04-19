@@ -30,6 +30,18 @@ This will achieve the following deliverables:
 
 Cleaner platform, minimising errors (technical and cosmetic), improving overall look and feel of website increasing companies brand.
 
+### Project Timeline
+Week 1 - Learn about the company and projects
+Week 2 - Company report, upskil on Lighthouse and Thoth tech TechStack
+Week 3 - Start implementing project goals, understanding the environment and further upskilling on Lighthoues and other front end enahncement software testing platforms
+Week 4 - Contribute to company report and continue Lighthouse report
+Week 5 - Work on project reporting and action points, individual mid project updates and presentations
+Week 6 to 8 - Contribution report improvements
+Week 9 - Report Comparisons - produce new reports after implementing changes
+Week 10 - update findings and create handover documentation
+Week 11 - Prepare for panel presentation and interviews
+Week 12 - Final wrap up of actions and finalise handover document
+
 ### DDGIT Website
 
 Our first task, we will need to locate or document website site map, create an excel file that we can use to document our findings for each page. We will need comparisons for how it is displaying in different web browsers and devices. We can collaborate on this excel file in Teams but less work if we can add it to GitHub and then our contributions will be tracked as was mentioned in class today.
