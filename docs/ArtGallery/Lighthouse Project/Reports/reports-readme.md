@@ -14,4 +14,5 @@ art-gallery-lighthouse-desktop-report-V1032023.pdf (project-type-report-version 
 art-gallery-lighthouse-mobile-report-V1032023.pdf (project-type-report-version date)
 
 This way we can track actions the Lighthouse team have suggested and identify changes that have impacted scoring based on our standard report versions.
-Advise to run reports monthly and/or after significant product changes
+Advise to run reports monthly and/or after significant product changes.
+
